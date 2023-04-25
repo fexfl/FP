@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+F30/PartB/cutout_BS90_I.fits
+F30/PartB/cutout_BS90_V.fits
+F30/PartB/ezpadova-master/.gitmodules
+F30/PartB/ezpadova-master/Crossmatch_and_plotting_CMD.ipynb
+F30/PartB/ezpadova-master/ezpadova/__init__.py
+F30/PartB/ezpadova-master/ezpadova/cmd.py
+F30/PartB/ezpadova-master/ezpadova/parsec.json
+F30/PartB/ezpadova-master/ezpadova/parsec.py
+F30/PartB/ezpadova-master/ezpadova/simpletable.py
+F30/PartB/ezpadova-master/LICENSE
+F30/PartB/ezpadova-master/photometry_utils.py
+F30/PartB/ezpadova-master/PSFPhotometry.ipynb
+F30/PartB/ezpadova-master/README.md
+F30/PartB/ezpadova-master/setup.py
